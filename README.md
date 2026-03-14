@@ -5,9 +5,23 @@
 The SISR algorithm for vehicle routing problems is implemented based on [1].
 The authors of this implementation proposed its extension for team orienteering problems.
 
-### Reference
+### Cite
 
-_Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementation of Slack Induction by String Removals for Routing and Orienteering Problems. In the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2026). Accepted for publication, 2026._
+To cite the contents of this repository, please cite the paper that also references the repository.
+
+_Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementation of Slack Induction by String Removals for Routing and Orienteering Problems. In the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR), 2026._
+
+```bibtex
+@inproceedings{PajerskyEtAl:SISR-VRP-OP26,
+  author       = {Martin Pajersk\'y and V\'aclav Sobotka and Hana Rudov\'a},
+  title        = {Open-Source Implementation of Slack Induction by
+                  String Removals for Routing and Orienteering Problems},
+  year         = {2026},
+  booktitle    = {23rd International Conference on the Integration of Constraint Programming,
+                  Artificial Intelligence, and Operations Research (CPAIOR)}
+}
+```
+
 
 ## Features of the implementation
 * Vehicle routing: achieved higher speedups than the original solver [1], up to 10 times on the largest instances
