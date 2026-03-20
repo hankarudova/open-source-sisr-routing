@@ -2,7 +2,7 @@
 
 ### Authors: Martin Pajerský, Václav Sobotka, Hana Rudová, Faculty of Informatics, Masaryk University, Brno, Czech Republic
 
-The SISR algorithm for vehicle routing problems is implemented based on [1].
+The SISRs algorithm for vehicle routing problems is implemented based on [1].
 The authors of this implementation proposed its extension for team orienteering problems.
 
 ### Cite
