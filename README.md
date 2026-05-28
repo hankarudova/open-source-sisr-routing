@@ -21,7 +21,7 @@ _Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementatio
                   Artificial Intelligence, and Operations Research (CPAIOR)}
 }
 ```
-
+Contact: Hana Rudová <hanka@fi.muni.cz>
 
 ## Features of the implementation
 * Vehicle routing: achieved higher speedups than the original solver [1], up to 10 times on the largest instances
