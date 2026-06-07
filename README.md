@@ -9,7 +9,7 @@ The authors of this implementation proposed its extension for team orienteering 
 
 To cite the contents of this repository, please cite the paper that also references the repository.
 
-_Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementation of Slack Induction by String Removals for Routing and Orienteering Problems. In the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR), 2026._
+_Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementation of Slack Induction by String Removals for Routing and Orienteering Problems. In the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR), pages 359-357. Springer LNCS 16595, 2026._
 
 ```bibtex
 @inproceedings{PajerskyEtAl:SISR-VRP-OP26,
@@ -18,7 +18,10 @@ _Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementatio
                   String Removals for Routing and Orienteering Problems},
   year         = {2026},
   booktitle    = {23rd International Conference on the Integration of Constraint Programming,
-                  Artificial Intelligence, and Operations Research (CPAIOR)}
+                  Artificial Intelligence, and Operations Research (CPAIOR)},
+  publisher    = {Springer LNCS 16595},
+  pages        = {359--357},
+  doi          = {https://doi.org/10.1007/978-3-032-27242-3}
 }
 ```
 Contact: Hana Rudová <hanka@fi.muni.cz>
