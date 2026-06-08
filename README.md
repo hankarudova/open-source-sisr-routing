@@ -21,7 +21,7 @@ _Martin Pajerský , Václav Sobotka, and Hana Rudová. Open-Source Implementatio
                   Artificial Intelligence, and Operations Research (CPAIOR)},
   publisher    = {Springer LNCS 16595},
   pages        = {359--357},
-  doi          = {https://doi.org/10.1007/978-3-032-27242-3}
+  doi          = {https://doi.org/10.1007/978-3-032-27242-3_22}
 }
 ```
 Contact: Hana Rudová <hanka@fi.muni.cz>
